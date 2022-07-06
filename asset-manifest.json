@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://ahmadrazach.github.io/csb-745cgz/static/js/main.9a4b1516.chunk.js",
+    "main.js.map": "https://ahmadrazach.github.io/csb-745cgz/static/js/main.9a4b1516.chunk.js.map",
+    "runtime-main.js": "https://ahmadrazach.github.io/csb-745cgz/static/js/runtime-main.f03ed366.js",
+    "runtime-main.js.map": "https://ahmadrazach.github.io/csb-745cgz/static/js/runtime-main.f03ed366.js.map",
+    "static/js/2.1889fee3.chunk.js": "https://ahmadrazach.github.io/csb-745cgz/static/js/2.1889fee3.chunk.js",
+    "static/js/2.1889fee3.chunk.js.map": "https://ahmadrazach.github.io/csb-745cgz/static/js/2.1889fee3.chunk.js.map",
+    "index.html": "https://ahmadrazach.github.io/csb-745cgz/index.html",
+    "static/js/2.1889fee3.chunk.js.LICENSE.txt": "https://ahmadrazach.github.io/csb-745cgz/static/js/2.1889fee3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f03ed366.js",
+    "static/js/2.1889fee3.chunk.js",
+    "static/js/main.9a4b1516.chunk.js"
+  ]
+}
